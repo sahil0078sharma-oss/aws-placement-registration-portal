@@ -25,7 +25,7 @@ Amazon S3 (students.json)
 
 - Student registration form
 - Serverless backend using AWS Lambda
-- REST API integration with API Gateway
+- HTTP API integration using Amazon API Gateway
 - Student data stored in Amazon S3
 - Static website hosting using Amazon S3
 
